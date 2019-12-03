@@ -1,0 +1,3 @@
+# Notes on Reason + Tablecloth
+
+* String.split doesn't have a docstring
