@@ -6,6 +6,8 @@ Doing [Advent of Code 2019](https://adventofcode.com/2019):
 * Using [Bucklescript](https://bucklescript.github.io/) to compile to Javascript
 * Using [Tablecloth](https://github.com/darklang/tablecloth) as a standard library
 
+Solutions in the `/src` directory.
+
 There's not a great reason to compile to Javascript for these challenges but I'm curious to explore the toolchain. Might switch to compiling to native code at some point.
 
 # Build
